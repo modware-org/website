@@ -18,6 +18,9 @@ namespace DotnetFoundationWeb
         public static bool IsCampaignOpen { get; set; }
           = string.Equals(ConfigurationManager.AppSettings["IsCampaignOpen"], "true", StringComparison.OrdinalIgnoreCase);
 
+        public static bool ShowCampaignResults { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["ShowCampaignResults"], "true", StringComparison.OrdinalIgnoreCase);
+
         public static string AzureSearchQueryKey { get; set; } = ConfigurationManager.AppSettings["AzureSearchQueryKey"];
 
         public static int ContributionsCounter { get; set; } = int.Parse(ConfigurationManager.AppSettings["ContributionsCounter"]);
@@ -31,5 +34,20 @@ namespace DotnetFoundationWeb
         public static string GoogleAnalytics { get; set; } = ConfigurationManager.AppSettings["GoogleAnalytics"];
 
         public static string Lang { get; set; } = ConfigurationManager.AppSettings["Lang"];
+
+        public static bool SuppressSpeakers { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["SuppressSpeakers"], "true", StringComparison.OrdinalIgnoreCase);
+
+        public static bool SuppressProjects { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["SuppressProjects"], "true", StringComparison.OrdinalIgnoreCase);
+
+        public static bool SuppressSpeakerBlogs { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["SuppressSpeakerBlogs"], "true", StringComparison.OrdinalIgnoreCase);
+
+        public static bool SuppressSpeakerGeoLocation { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["SuppressSpeakerGeoLocation"], "true", StringComparison.OrdinalIgnoreCase);
+
+        public static bool SuppressSpeakerImages { get; set; }
+          = string.Equals(ConfigurationManager.AppSettings["SuppressSpeakerImages"], "true", StringComparison.OrdinalIgnoreCase);
     }
 }

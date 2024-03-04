@@ -15,8 +15,8 @@ Topics:
   - DevOps
   - Visual Studio
   - Web Development
-Blog: http://www.jorgelevy.com/
-Feed: http://www.jorgelevy.com/feed/
+Blog: https://www.jorgelevy.com/
+Feed: https://www.jorgelevy.com/feed/
 Twitter: https://twitter.com/KodiakMx
 GitHub: https://github.com/jorgelevy
 StackOverflow: https://stackoverflow.com/users/654508/kodiakmx
@@ -31,4 +31,4 @@ Programador por convicción y pasión. Más de 15 años programando en tecnolog�
 
 Actualmente viviendo en EU trabajando como Developer Senior para una compañía consultora con gran indice proyectos para el Gobierno de California.
 
-Early Adopter de productos tecnológicos. “Insider” de todo lo relacionado a Ms. Windows 10, Visual Studio, Visual Studio Code, Office, Xbox, Edge Chromium, etc, todo en versión insider.
+Early Adopter de productos tecnológicos. "Insider" de todo lo relacionado a Ms. Windows 10, Visual Studio, Visual Studio Code, Office, Xbox, Edge Chromium, etc, todo en versión insider.

@@ -1,6 +1,6 @@
 ---
 name: Microsoft
 logo: assets/corporate-sponsors/Microsoft.png
-url: http://www.microsoft.com/
-order: 4
+url: https://www.microsoft.com/
+order: 5
 ---

@@ -3,11 +3,11 @@ Title: .NET Foundation April Update
 Author: Jon Galloway
 Published: 2018-04-30 23:49:00.0000000
 ---
-<p>It’s time for the April Update, subtitled The Calm Before The Storm edition... it's a relatively quiet month, but stay tuned for May when we'll have lots of news including several new projects joining and updates from the <a href="https://www.microsoft.com/en-us/build">Build 2018 conference</a>.</p>
+<p>It's time for the April Update, subtitled The Calm Before The Storm edition... it's a relatively quiet month, but stay tuned for May when we'll have lots of news including several new projects joining and updates from the <a href="https://www.microsoft.com/en-us/build">Build 2018 conference</a>.</p>
 
 <p>Speaking of Build... the .NET Foundation will have a .NET Open Source booth at Build. Come say hi!</p>
 
-<p>As always, these are available both on our blog and via e-mail: <a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail: <a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <h2>.NET Foundation Updates</h2>
 
@@ -59,7 +59,7 @@ More details <a href="https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClie
 <li>Many bugfixes</li>
 </ul>
 
-<p>See the release notes <a href="http://aakinshin.net/blog/post/bdn-v0_10_14/">here</a>.</p>
+<p>See the release notes <a href="https://aakinshin.net/blog/post/bdn-v0_10_14/">here</a>.</p>
 
 <h3>Announcing MvvmCross 6.0!</h3>
 
@@ -92,7 +92,7 @@ More details <a href="https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClie
 
 <h3>Recent Standout Community Posts and Links</h3>
 
-<p>Here are some recent posts we’ve featured on the ASP.NET Community Standup:</p>
+<p>Here are some recent posts we've featured on the ASP.NET Community Standup:</p>
 
 <ul>
 <li><a href="https://blogs.msdn.microsoft.com/webdev/2018/04/12/asp-net-core-2-1-0-preview2-now-available/">ASP.NET Core 2.1.0-preview2 now available</a></li>
@@ -114,7 +114,7 @@ More details <a href="https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClie
 <li><a href="https://github.com/panesofglass/trail">panesofglass/trail: ASP.NET Blazor rendering with F#</a></li>
 <li><a href="https://joonasw.net/view/csharp-await-and-js-promises-in-blazor">Using C# await against JS Promises in Blazor</a></li>
 <li><a href="https://github.com/lohithgn/blazor-tour-of-heroes">lohithgn/blazor-tour-of-heroes: Blazor implementation of Angular Tour of Heroes</a></li>
-<li><a href="http://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/">Create a CRUD App using Blazor and ASP.NET Core</a></li>
+<li><a href="https://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/">Create a CRUD App using Blazor and ASP.NET Core</a></li>
 </ul>
 
 <p>And a few top .NET posts:</p>
@@ -124,25 +124,25 @@ More details <a href="https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClie
 <li><a href="https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1/">Performance Improvements in .NET Core 2.1</a></li>
 <li><a href="https://blogs.msdn.microsoft.com/dotnet/2018/04/20/help-us-plan-the-future-of-net/">Help us plan the future of .NET!</a></li>
 <li><a href="http://xoofx.com/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr/">Writing a Managed JIT in C# with CoreCLR</a></li>
-<li><a href="http://loicbaumann.fr/en/2018/04/02/how-to-optimize-net-development-using-net-core-2-1-and-c-7-2/">How To Optimize .NET Development Using .NET Core 2.1 And C# 7.2</a></li>
+<li><a href="https://loicbaumann.fr/en/2018/04/02/how-to-optimize-net-development-using-net-core-2-1-and-c-7-2/">How To Optimize .NET Development Using .NET Core 2.1 And C# 7.2</a></li>
 </ul>
 
 <hr />
 <h2>Connect with the .NET Foundation Online!</h2>
 
-<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The <a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p><a href="https://www.youtube.com/NETFoundation">The .NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <p><a href="https://www.youtube.com/NETFoundation">Youtube</a></p>
 
-<p>Do you have an interesting piece of news or content related to .NET open source? Let us know so we can include it in next month’s update by posting a comment below.</p>
+<p>Do you have an interesting piece of news or content related to .NET open source? Let us know so we can include it in next month's update by posting a comment below.</p>
 
 <hr />
 <h2>Remember to Subscribe!</h2>
 
-<p>Please <a href="http://eepurl.com/dhL_qb">sign up</a> to get the .NET Foundation Update via e-mail.</p>
+<p>Please <a href="https://eepurl.com/dhL_qb">sign up</a> to get the .NET Foundation Update via e-mail.</p>
 
-<p><a href="http://eepurl.com/dhL_qb">Subscribe</a></p>
+<p><a href="https://eepurl.com/dhL_qb">Subscribe</a></p>
 
-<p>Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>

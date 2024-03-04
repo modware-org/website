@@ -24,7 +24,7 @@
 
                         @if (Document.ContainsKey(SiteKeys.Email))
                         {
-                            <div class="mb-4">
+                            <div class="mb-4 social-links">
                                 <h3>Email Address</h3>
                                 <div><a href="mailto:@(Document.GetString(SiteKeys.Email))">@(Document.GetString(SiteKeys.Email))</a></div>
                             </div>
@@ -61,7 +61,7 @@
                                 .ToArray();
                             if (speakerLinks.Length > 0)
                             {
-                                <div>
+                                <div class="social-links">
                                     <h3>Connect</h3>
                                     @foreach (KeyValuePair<string, SpeakerLinkAttribute> speakerLink in speakerLinks)
                                     {
@@ -114,6 +114,8 @@
                 color: 'DodgerBlue',
                 position: [@Document.GetString(SiteKeys.Lon), @Document.GetString(SiteKeys.Lat)]
             }));
+            var mapLink = $('.azure-map-feedback');
+            mapLink.attr('aria-label', 'Map');
         });
     </script>
 }

@@ -7,6 +7,7 @@
     "transcriptFileName": "oqtane-transcript.txt",
     "publishDate": "2020-11-01",
     "loadIssues": false,
+    "showContributers": true,
     "issueLabel": "",
     "projectOwners": [
       {
@@ -41,6 +42,6 @@
     "githubRepo": "https://github.com/oqtane/oqtane.framework",
     "projectWebsite": "https://www.oqtane.org/",
     "communityUrl": "https://github.com/oqtane/oqtane.framework/discussions",
-    "documentationUrl": "http://oqtane.github.io/",
+    "documentationUrl": "https://oqtane.github.io/",
     "contributionUrl": "https://github.com/oqtane/oqtane.framework/issues"
   }

@@ -17,7 +17,7 @@ This month's newsletter includes:</p>
 <li>Some .NET OSS community news links from the past month</li>
 </ul>
 
-<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="http://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
+<p>As always, these are available both on our blog and via e-mail:&nbsp;<a href="https://eepurl.com/dhL_qb">Sign up to get the .NET Foundation Update via e-mail</a></p>
 
 <h2>.NET Core 2.1 / ASP.NET Core 2.1 / EF Core 2.1 RTM</h2>
 
@@ -76,7 +76,7 @@ This month's newsletter includes:</p>
 
 <p>The DNN Community is preparing for a 9.2.1 RC off the heels of a great DNN-Connect Conference in Ireland. Also, the recently updated Partner Program has onboarded over 40 new partners and an updated MVP Program will be announced on July 1. Our technical steering group (DNNTAG) is working hard to streamline processes for automated builds, pull-requests, and CLA automation.</p>
 
-<p>Read the full post&nbsp;<a href="http://www.dnnsoftware.com/community-blog/cid/155563/pull-requests-processes-builds-roadmap">here</a>.</p>
+<p>Read the full post&nbsp;<a href="https://www.dnnsoftware.com/community-blog/cid/155563/pull-requests-processes-builds-roadmap">here</a>.</p>
 
 <h3>Newtonsoft.Json enabling Source Link</h3>
 
@@ -90,7 +90,7 @@ Read more&nbsp;<a href="http://blog.ctaggart.com/2018/06/newtonsoftjson-enabling
 
 <p>Over the course of the three days you have a wide selection of live sessions that feature speakers from the community and .NET product teams. These are the experts in their field and it is a chance to learn, ask questions live, and get inspired for your next software project.</p>
 
-<p>You will learn to build for web, mobile, desktop, games, services, libraries and more for a variety of platforms and devices all with .NET. We have sessions for everyone, no matter if you are just beginning or are a seasoned engineer. We’ll have presentations on .NET Core and ASP.NET Core, C#, F#, Azure, Visual Studio, Xamarin, and much more.<br />
+<p>You will learn to build for web, mobile, desktop, games, services, libraries and more for a variety of platforms and devices all with .NET. We have sessions for everyone, no matter if you are just beginning or are a seasoned engineer. We'll have presentations on .NET Core and ASP.NET Core, C#, F#, Azure, Visual Studio, Xamarin, and much more.<br />
 <br />
 The Call for Papers is open through July 23, with 90 submissions already in!&nbsp;<a href="https://www.papercall.io/dotnetconf-2018">Submit your session proposal&nbsp;today!</a></p>
 
@@ -106,7 +106,7 @@ The Call for Papers is open through July 23, with 90 submissions already in!&nbs
 
 <p>Nice article from Anthony Chu overviewing a new feature in ASP.NET Core 2.1 - SignalR makes it easy to build real-time web applications.</p>
 
-<h4><a href="http://www.paraesthesia.com/archive/2018/06/20/microsoft-extensions-configuration-deep-dive/">Deep Dive into Microsoft Configuration</a></h4>
+<h4><a href="https://www.paraesthesia.com/archive/2018/06/20/microsoft-extensions-configuration-deep-dive/">Deep Dive into Microsoft Configuration</a></h4>
 
 <p>Travis Illig gives a really thorough overview of the configuration system used in .NET Core.</p>
 
@@ -139,11 +139,11 @@ The Call for Papers is open through July 23, with 90 submissions already in!&nbs
 <hr />
 <h2>Connect with the .NET Foundation online</h2>
 
-<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We’ll post regular updates and interesting things happening with .NET to share.</p>
+<p>The&nbsp;<a href="https://www.facebook.com/dotnetfoundation/">.NET Foundation is on Facebook now</a>. Please like our page! We'll post regular updates and interesting things happening with .NET to share.</p>
 
 <p>The <a href="https://www.youtube.com/NETFoundation">.NET Foundation is also on YouTube</a>. Watch community standups and design reviews as well as code-focused shows and interviews across our multiple playlists.</p>
 
 <hr />
 <h2>Remember to Subscribe!</h2>
 
-<p>Please&nbsp;<a href="http://eepurl.com/dhL_qb">sign up&nbsp;to get the .NET Foundation Update via e-mail</a>.&nbsp;Don’t worry, we want to keep these short, interesting, and low-noise, so we won’t overload your e-mail.</p>
+<p>Please&nbsp;<a href="https://eepurl.com/dhL_qb">sign up&nbsp;to get the .NET Foundation Update via e-mail</a>.&nbsp;Don't worry, we want to keep these short, interesting, and low-noise, so we won't overload your e-mail.</p>
